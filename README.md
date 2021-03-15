@@ -1,4 +1,6 @@
-# This Repo is for ESP8266 MicroPython Scripts and Knowledge
+# ESP8266 MicroPython Scripts and Knowledge
+The purpose of this Repo is to prevent me from having to learn tips and tricks of the
+ESP8266 and MicroPython over and over again 
 
 ## How to wire ESP8266 to program with Micropython
 - Vcc   -> Vcc
@@ -9,7 +11,7 @@
 - Tx    -> Rx of USB cable
 - Rx    -> Tx of USB cable
 
-### Flashing
+## Flashing
 - Make sure GPIO0 is grounded and power cycled for good measure.
 - Loading firmware instructions: [Here](https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html)
 - Firmware Download: [Here](https://micropython.org/download/esp8266/)
